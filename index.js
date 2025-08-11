@@ -1,1 +1,1 @@
-console.log("olá mundo no JavaScript!");
+console.log("olá mundo no JavaScript! 2025");
